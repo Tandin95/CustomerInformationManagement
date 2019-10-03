@@ -75,7 +75,7 @@ namespace CustomerInformationManagementApp
 
             label1.Text = "登録されました";
 
-            NameCheck nameCheck = new NameCheck(name, age, birthyear, birthmonth, birthDate, email, label1);
+            NameCheck nameCheck = new NameCheck(name, age, birthyear, birthmonth, birthdate, email);
 
            
         }

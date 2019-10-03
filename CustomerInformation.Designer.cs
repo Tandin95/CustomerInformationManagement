@@ -53,7 +53,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(406, 277);
+            this.button1.Location = new System.Drawing.Point(406, 285);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(108, 37);
             this.button1.TabIndex = 7;
@@ -308,11 +308,10 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(115, 371);
+            this.label1.Location = new System.Drawing.Point(203, 346);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(43, 15);
+            this.label1.Size = new System.Drawing.Size(0, 15);
             this.label1.TabIndex = 20;
-            this.label1.Text = "label1";
             // 
             // CustomerInformation
             // 
